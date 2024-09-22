@@ -1,0 +1,9 @@
+{
+	"bestiary": {
+		"group": "ftblibrary:info",
+		"icon": "sdm_bestiary:icons/book-pile_128",
+		"x": 100,
+		"click": "sdm_bestiary:open_gui",
+		"loading_screen": true
+	}
+}
